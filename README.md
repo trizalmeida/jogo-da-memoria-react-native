@@ -5,7 +5,7 @@ Bem-vindo ao jogo da memória da Sailor Moon! Este é um jogo clássico de memó
 ## 📷 Screenshots
 
 ![ScreenShot-1](https://github.com/trizalmeida/jogo-da-memoria-react-native/assets/143958966/93d42f53-59ca-4115-a491-5a3e75e3c74d)
-![Screenshot 1](screenshots/screenshot1.png)
+![ScreenShot-2](https://github.com/trizalmeida/jogo-da-memoria-react-native/assets/143958966/3753ffe3-aa99-4afd-8d00-7ce04184746d)
 
 ## ℹ️ Sobre o Jogo
 
