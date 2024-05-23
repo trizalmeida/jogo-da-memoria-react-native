@@ -30,7 +30,7 @@ O jogo da memória da Sailor Moon é uma ótima maneira de testar e exercitar a 
 
 ## 🤝 Contribuições
 
-Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, por favor, abra uma [issue](link-da-página-de-issues) ou envie um [pull request](link-do-repositório/pulls).
+Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, por favor, abra uma [issue](https://github.com/trizalmeida/jogo-da-memoria-react-native/issues) ou envie um [pull request](https://github.com/trizalmeida/jogo-da-memoria-react-native/pulls).
 
 ---
 
